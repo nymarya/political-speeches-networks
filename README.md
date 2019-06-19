@@ -3,7 +3,7 @@ Text networks analysis based on deputies' speeches
 
 ## Analysis
 
-
+The first part of the analysis is available on this [post](https://nymarya.github.io/do-que-politicos-estao-falando/) (portuguese).
 
 ## Autorship
 [<img alt="nymarya" src="https://avatars1.githubusercontent.com/u/23341788?v=2&s=50" width=50>](https://github.com/nymarya) |
