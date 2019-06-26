@@ -5,6 +5,8 @@ Text networks analysis based on deputies' speeches
 
 The first part of the analysis is available on this [post](https://nymarya.github.io/do-que-politicos-estao-falando/) (portuguese).
 
+The full analysis is available on this [Medium post](https://medium.com/@anunciado/do-que-os-pol%C3%ADticos-estão-falando-6c73567467b4).
+
 ## Autorship
 [<img alt="nymarya" src="https://avatars1.githubusercontent.com/u/23341788?v=2&s=50" width=50>](https://github.com/nymarya) |
 [<img alt="cruxiu"  src="https://avatars3.githubusercontent.com/u/19611403?v=2&s=50" width=50>](https://github.com/anunciado)|[<img alt="vilarjp"  src="https://avatars2.githubusercontent.com/u/26348686?v=2&s=50" width=50>](https://github.com/vilarjp) |
